@@ -94,20 +94,6 @@ sections:
       - title: Convertir votre trafic
         title_align: left
         content: >
-          Que faire de tout ce trafic ? Ensemble, nous allons faire en sorte de 
-
-          transformer vos visiteurs en clients. Pour ce faire, je vais étudier 
-
-          votre stratégie, votre site et vous donner les clés pour l’optimiser
-          : 
-
-          Call To Action, [Marketing
-          Automation](https://guersanguillaume.com/ressources/glossaire-marketing-digital/definition-marketing-automation/),
-          Nurturing, etc …
-
-
-
-
           Une fois que vous avez acquis du trafic sur votre site internet. Nous
           allons mettre en place une stratégie pour transformer ces visiteurs en
           clients. Selon vos besoins, nous allons créer des landing page,
