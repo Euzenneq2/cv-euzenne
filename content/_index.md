@@ -72,17 +72,24 @@ sections:
         type: grid_item
       - title: Développer votre trafic
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Avoir un très beau site web est une bonne chose, cependant sans
+          visiteurs il est ne vous apportera rien.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          C'est pourquoi, nous allons travailler ensemble votre stratégie
+          d'acquisition en utilisant les leviers adapté à votre secteur
+          d'activité :
 
 
-          - Lorem ipsum
+          *   SEO
 
-          - dolor sit amet
+
+          *   SEA
+
+
+          *   Et si besoin, mettre en place une stratégie social média.
+
         content_align: left
         actions: []
         actions_align: left
