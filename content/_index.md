@@ -62,7 +62,7 @@ sections:
 
         content_align: left
         actions:
-          - label: En savoir
+          - label: En savoir plus
             url: '#'
             style: secondary
             has_icon: false
