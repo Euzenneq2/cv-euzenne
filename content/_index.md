@@ -152,7 +152,6 @@ sections:
     type: grid_section
   - type: grid_section
     title: Retrouvez mon expertise
-    subtitle: Who I work with
     align: center
     grid_items:
       - image: images/logo-1.svg
