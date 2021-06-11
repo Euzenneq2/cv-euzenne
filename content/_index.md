@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Quentin Euzenne, Freelance en Marketing Digital'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Vous avez besoin d'une
     actions:
       - label: Contact Me
         url: /contact
