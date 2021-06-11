@@ -62,7 +62,7 @@ sections:
 
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: En savoir
             url: '#'
             style: link
             has_icon: false
