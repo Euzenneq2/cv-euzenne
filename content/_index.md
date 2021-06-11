@@ -72,24 +72,15 @@ sections:
         type: grid_item
       - title: Développer votre trafic
         title_align: left
-        content: >+
+        content: >
           Avoir un très beau site web est une bonne chose, cependant sans
           visiteurs il est ne vous apportera rien.
 
 
           C'est pourquoi, nous allons travailler ensemble votre stratégie
           d'acquisition en utilisant les leviers adapté à votre secteur
-          d'activité :
-
-
-          *   SEO
-
-
-          *   SEA
-
-
-          *   Et si besoin, mettre en place une stratégie social média.
-
+          d'activité : SEO, SEA, et si besoin, mettre en place une stratégie
+          social média.
         content_align: left
         actions: []
         actions_align: left
