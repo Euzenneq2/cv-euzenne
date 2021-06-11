@@ -26,10 +26,10 @@ sections:
       leviers utiliser différents selon votre marché et votre cible.
 
 
-      Référencement naturelle (SEO)
+      *   Référencement naturelle (SEO)
 
 
-      Campagne adwords (Google Ads, Facebook Ads etc.)
+      *   Campagne adwords (Google Ads, Facebook Ads etc.)
 
 
       Je focalise ma stratégie dans le but d'obtenir le meilleur retour sur
