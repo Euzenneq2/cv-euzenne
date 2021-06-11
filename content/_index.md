@@ -8,7 +8,7 @@ sections:
       Mon objectif est d'accroitre le trafic de votre site internet afin que
       vous obteniez de nouveaux prospects ou clients.
     actions:
-      - label: Contact Me
+      - label: Contactez moi !
         url: /contact
         style: primary
     image: images/hero.png
