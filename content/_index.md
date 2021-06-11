@@ -34,8 +34,7 @@ sections:
 
       Je focalise ma stratégie dans le but d'obtenir le meilleur retour sur
       investissement possible.
-  - subtitle: p
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
