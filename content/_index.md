@@ -151,7 +151,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Retrouvez mon expertise
     subtitle: Who I work with
     align: center
     grid_items:
