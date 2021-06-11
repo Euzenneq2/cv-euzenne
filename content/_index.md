@@ -56,7 +56,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: My services
+    title: Mes services
     subtitle: Ce sur quoi j'intervient
     features:
       - title: Content Creation
