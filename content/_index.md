@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Quentin Euzenne, Freelance en Marketing Digital'
-    subtitle: Vous avez besoin d'un accompagnement dans votre votre stratégie digitale ?
+    subtitle: Vous avez besoin d'un accompagnement dans votre stratégie digitale ?
     actions:
       - label: Contactez moi !
         url: /contact
