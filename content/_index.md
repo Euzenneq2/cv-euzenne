@@ -20,8 +20,20 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - content: |
-      *   p
+  - content: >
+      Mon objectif est d'accroitre le nombre de visiteurs sur votre site web
+      afin que vous obteniez de nouveaux prospects ou clients. J'adapte les
+      leviers utiliser différents selon votre marché et votre cible.
+
+
+      *   Référencement naturelle (SEO)
+
+
+      *   Campagne adwords (Google Ads, Facebook Ads etc.)
+
+
+      Je focalise ma stratégie dans le but d'obtenir le meilleur retour sur
+      investissement possible.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
