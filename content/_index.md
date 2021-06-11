@@ -53,17 +53,13 @@ sections:
     grid_items:
       - title: Accroitre votre visibilitée
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Votre stratégie digital doit commencer par une forte présence sur
+          internet et donc en commençant par la création de votre site web. 
 
+          J’utilise Hugo Jamstack et le CMS WordPress, cela permet de créer tous
+          types de sites : site vitrine et site e-commerce.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
