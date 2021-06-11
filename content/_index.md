@@ -51,7 +51,7 @@ sections:
   - title: Vous souhaitez développer votre stratégie digitale ?
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Accroitre votre visibilitée
         subtitle: lorem-ipsum
         title_align: left
         content: >-
