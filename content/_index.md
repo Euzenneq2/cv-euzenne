@@ -35,7 +35,6 @@ sections:
       Je focalise ma stratégie dans le but d'obtenir le meilleur retour sur
       investissement possible.
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
