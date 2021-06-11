@@ -5,7 +5,8 @@ sections:
     title: 'Quentin Euzenne, Freelance en Marketing Digital'
     subtitle: >-
       Vous avez besoin d'un accompagnement dans votre votre stratégie digital ?
-      Mon objectif est d'accroitre le trafic de votre site internet
+      Mon objectif est d'accroitre le trafic de votre site internet afin que
+      vous obteniez de nouveaux prospects ou clients.
     actions:
       - label: Contact Me
         url: /contact
