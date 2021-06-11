@@ -20,22 +20,19 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    content: >+
+    content: >
       Mon objectif est d'accroitre le nombre de visiteurs sur votre site web
       afin que vous obteniez de nouveaux prospects ou clients. J'adapte les
       leviers utiliser différents selon votre marché et votre cible.
 
 
-      *   Référencement naturelle (SEO)
+      Référencement naturelle (SEO)
 
-
-      *   Campagne adwords (Google Ads, Facebook Ads etc.)
+      Campagne adwords (Google Ads, Facebook Ads etc.)
 
 
       Je focalise ma stratégie dans le but d'obtenir le meilleur retour sur
       investissement possible.
-
-
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
