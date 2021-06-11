@@ -93,17 +93,26 @@ sections:
         type: grid_item
       - title: Convertir votre trafic
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Que faire de tout ce trafic ? Ensemble, nous allons faire en sorte de 
+
+          transformer vos visiteurs en clients. Pour ce faire, je vais étudier 
+
+          votre stratégie, votre site et vous donner les clés pour l’optimiser
+          : 
+
+          Call To Action, [Marketing
+          Automation](https://guersanguillaume.com/ressources/glossaire-marketing-digital/definition-marketing-automation/),
+          Nurturing, etc …
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Une fois que vous avez acquis du trafic sur votre site internet. Nous
+          allons mettre en place une stratégie pour transformer ces visiteurs en
+          clients. Selon vos besoins, nous allons créer des landing page,
+          développer leurs copywriting, optimiser vos call to action et mettre
+          en place un process de marketing automation efficace.
         content_align: left
         actions: []
         actions_align: left
