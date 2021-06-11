@@ -48,7 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Vous souhaitez développer votre stratégie digital ?
+  - title: Vous souhaitez développer votre stratégie digitale ?
     actions: []
     grid_items: []
     grid_cols: three
