@@ -34,7 +34,7 @@ sections:
 
       Je focalise ma stratégie dans le but d'obtenir le meilleur retour sur
       investissement possible.
-  - title: lorem-ipsum
+  - title: Où en est votre stratégie Marketing Digital ?
     actions: []
     grid_items: []
     grid_cols: three
